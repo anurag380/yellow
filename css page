@@ -1,0 +1,45 @@
+body{
+    background-image: url(http://yellowpages.in/images/home-banner.jpg);
+    height: 10vh;
+}
+#nav a{
+    color: white;
+    margin:5px 10px 50px 40px ;
+    text-decoration: underline;
+}
+#line{
+    text-align: center;
+    margin-top:10%;
+    color: white;
+}
+#ser{
+    text-align: center;
+}
+#ser input{
+    width: 46%;
+    height: 56px;
+    border-radius: 10px;
+    margin-right:4%;
+}
+#srch{
+    margin-left: 71%;
+    margin-top:-5.7% ;
+    height: 53px;
+    width: 54px;
+}
+#ic{
+    width: 30px;
+    height: 30px;
+    margin-top: -5px;
+    margin-left: -3px;
+}
+#log{
+    margin-left: 12%;
+    margin-top: 1%;
+}
+#blk{
+    border: 0px solid black;
+    height: 20vh;
+    margin-top: 11%;
+    backdrop-filter: blur(5px);
+}
